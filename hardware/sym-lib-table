@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SAMC21_breakout-rescue")(type "KiCad")(uri "${KIPRJMOD}/SAMC21_breakout-rescue.kicad_sym")(options "")(descr ""))
+)
